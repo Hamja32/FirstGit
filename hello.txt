@@ -1,3 +1,4 @@
 Hello World
 My Name is Hamza khan
-And I am in Maulana Azad University
+And I am in Maulana Azad University Jodhpur (Rajasthan)
+I am learning git at Computer lab
