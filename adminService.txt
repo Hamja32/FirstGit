@@ -1,0 +1,2 @@
+admin can add user and remove them
+admin can read all comments
